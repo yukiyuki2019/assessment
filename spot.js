@@ -9,7 +9,7 @@ const spotDivided = document.getElementById('spot-area');
 //---------------------------
 //       スライドショー
 //---------------------------
-const slideImage = ["RED19428C008_TP_V4.jpg", "machu-picchu-43387_640.jpg", "mont-saint-michel-2781563_640.jpg", "o-torii-3970153_640.jpg", "horseshoe-bend-1908283_640.jpg"];
+const slideImage = ["/Users/yuuki/workspace/studying-now/RED19428C008_TP_V4.jpg", "/Users/yuuki/workspace/studying-now/machu-picchu-43387_640.jpg", "/Users/yuuki/workspace/studying-now/mont-saint-michel-2781563_640.jpg", "/Users/yuuki/workspace/studying-now/o-torii-3970153_640.jpg", "/Users/yuuki/workspace/studying-now/horseshoe-bend-1908283_640.jpg"];
 let num = -1;
 
 slideshowTimer();
@@ -110,26 +110,26 @@ const answers = [
 ];
 
 const answersImage = [
-  '<img src="RED19428C008_TP_V4.jpg" alt="富士山" width="300" height="150">',
-  '<img src="yakushima-island-1030459_640.jpg" alt="屋久島" width="300" height="150">',
-  '<img src="woods-2212503_640.jpg" alt="白神山地" width="300" height="150">',
-  '<img src="japan-1723322_640.jpg" alt="軍艦島" width="300" height="150">',
-  '<img src="o-torii-3970153_640.jpg" alt="厳島神社" width="300" height="150">',
-  '<img src="todai-ji-temple-2672649_640.jpg" alt="東大寺" width="300" height="150">',
-  '<img src="ise-jingu-shrine-1862658_640.jpg" alt="伊勢神宮" width="300" height="150">',
-  '<img src="toshogu-shrine-477813_640.jpg" alt="日光東照宮" width="300" height="150">',
-  '<img src="mars-67522_640.jpg" alt="火星" width="300" height="150">',
-  '<img src="astronomy-1869760_640.jpg" alt="月" width="300" height="150">',
-  '<img src="sunrise-1756274_640.jpg" alt="地球" width="300" height="150">',
-  '<img src="angkor-wat-425689_640.jpg" alt="アンコールワット" width="300" height="150">',
-  '<img src="pyramids-2371501_640.jpg" alt="ピラミッド" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/RED19428C008_TP_V4.jpg" alt="富士山" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/yakushima-island-1030459_640.jpg" alt="屋久島" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/woods-2212503_640.jpg" alt="白神山地" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/japan-1723322_640.jpg" alt="軍艦島" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/o-torii-3970153_640.jpg" alt="厳島神社" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/todai-ji-temple-2672649_640.jpg" alt="東大寺" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/ise-jingu-shrine-1862658_640.jpg" alt="伊勢神宮" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/toshogu-shrine-477813_640.jpg" alt="日光東照宮" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/mars-67522_640.jpg" alt="火星" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/astronomy-1869760_640.jpg" alt="月" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/sunrise-1756274_640.jpg" alt="地球" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/angkor-wat-425689_640.jpg" alt="アンコールワット" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/pyramids-2371501_640.jpg" alt="ピラミッド" width="300" height="150">',
   '<img src="http://1.bp.blogspot.com/-JBS94CyHCdk/Uyk_HvFJfqI/AAAAAAAAeMA/7Henae-H-xI/s180-c/album_family.png" alt="我が家" width="300" height="150">',
-  '<img src="great-wall-3022907_640.jpg" alt="万里の長城" width="300" height="150">',
-  '<img src="machu-picchu-43387_640.jpg" alt="マチュピチュ" width="300" height="150">',
-  '<img src="adult-1869001_640.jpg" alt="自分自身" width="300" height="150">',
-  '<img src="horseshoe-bend-1908283_640.jpg" alt="グランドキャニオン" width="300" height="150">',
-  '<img src="natural-727442_640.jpg" alt="トトロの森" width="300" height="150">',
-  '<img src="mont-saint-michel-2781563_640.jpg" alt="モンサンミッシェル" width="300" height="150">'
+  '<img src="/Users/yuuki/workspace/studying-now/great-wall-3022907_640.jpg" alt="万里の長城" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/machu-picchu-43387_640.jpg" alt="マチュピチュ" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/adult-1869001_640.jpg" alt="自分自身" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/horseshoe-bend-1908283_640.jpg" alt="グランドキャニオン" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/natural-727442_640.jpg" alt="トトロの森" width="300" height="150">',
+  '<img src="/Users/yuuki/workspace/studying-now/mont-saint-michel-2781563_640.jpg" alt="モンサンミッシェル" width="300" height="150">'
 ];
 
 
