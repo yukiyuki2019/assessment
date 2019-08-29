@@ -1,21 +1,2 @@
 # assessment
 あなたのいいところ診断ゲーム
-adult-1869001_640.jpg
-angkor-wat-425689_640.jpg
-astronomy-1869760_640.jpg
-great-wall-3022907_640.jpg
-horseshoe-bend-1908283_640.jpg
-ise-jingu-shrine-1862658_640.jpg
-japan-1723322_640.jpg
-machu-picchu-43387_640.jpg
-mars-67522_640.jpg
-mont-saint-michel-2781563_640.jpg
-natural-727442_640.jpg
-o-torii-3970153_640.jpg
-pyramids-2371501_640.jpg
-RED19428C008_TP_V4.jpg
-sunrise-1756274_640.jpg
-todai-ji-temple-2672649_640.jpg
-toshogu-shrine-477813_640.jpg
-woods-2212503_640.jpg
-yakushima-island-1030459_640.jpg
